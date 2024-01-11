@@ -471,7 +471,8 @@ hello.Color = 'r';
 shg
 axis off
 pause
-delete(hello)axis off
+delete(hello)
+axis off
 
 pause(2)
 while correctTrial<20
